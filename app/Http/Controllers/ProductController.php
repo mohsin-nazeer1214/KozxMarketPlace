@@ -114,10 +114,6 @@ class ProductController extends Controller
                 return view('product_details', compact('product', 'relatedProducts', 'images'));
             }
 
-
-
-
-
             
 
 
